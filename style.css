@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 1200;
+  font-size: 5rem;
+  letter-spacing: 1rem;
+  background-image: url('https://i.pinimg.com/originals/2b/74/db/2b74dbae3404bd472f384e88f7e11056.jpg');
+  color: transparent;
+  -webkit-background-clip: text;
+}
